@@ -1,0 +1,12 @@
+READ ME
+
+This folder contains a set of white statue's input images and this text file.
+The images seem to be upside down. However that is right.
+We took these images by using a dragonfly camera attached with a LED light source.
+The light source are fixed up at (8.8, 0, 0) [cm] in a camera coordinate.
+The coordinate system is right-hand one, the origin is camera center (CCD is located here), X axix is right side dirction of the camera, Y axis is vertically down side for input images, and Z axis is forward camera-look direction.
+
+
+Tomoaki Higo
+
+higo@cvl.iis.u-tokyo.ac.jp
